@@ -1,0 +1,19 @@
+{
+  "name": "tonyliang",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prebeta/tonyliang.git"
+  },
+  "author": "Tony Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prebeta/tonyliang/issues"
+  },
+  "homepage": "https://github.com/prebeta/tonyliang#readme"
+}
