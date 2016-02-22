@@ -1,4 +1,31 @@
 body{
   font-family: Lato;
   margin: 0 100px;
+  color: #61656e;
+}
+
+.hero{
+  margin-top: 25px;
+  display: inline-block;
+  width: 100%;
+}
+
+.display-name{
+  display: inline-block;
+  padding: 0;
+  margin:0;
+  font-size: 3em;
+  color: #61656e;
+}
+
+.icon-bar{
+  display: inline-block;
+  float: right;
+  right: 0;
+}
+
+.icon-bar img{
+  padding:10px 20px;
+  height:3em;
+  width:3em;
 }
