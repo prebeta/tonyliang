@@ -1,31 +1,93 @@
 body{
+  display: block;
   font-family: Lato;
   margin: 0 100px;
-  color: #61656e;
 }
-
 .hero{
   margin-top: 25px;
   display: inline-block;
   width: 100%;
 }
-
 .display-name{
   display: inline-block;
   padding: 0;
   margin:0;
-  font-size: 3em;
-  color: #61656e;
+  font-size: 2em;
+  color: #777;
 }
-
 .icon-bar{
   display: inline-block;
   float: right;
   right: 0;
 }
-
 .icon-bar img{
   padding:10px 20px;
-  height:3em;
-  width:3em;
+  height:2em;
+  width:2em;
+}
+.icon-bar a{
+  text-decoration: none;
+  color: white;
+  cursor: auto;
+}
+.profile{
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
+.profile-img{
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;  
+}
+.profile-slg{
+  font-size: 3em;
+  margin: 0;
+  color: #777;
+}
+.project-panel{
+  display:inline-flex;
+  width:100%;
+  margin: 50px 0;
+}
+.project-divider{
+  position: absolute;
+  display:inline-block;
+  width:70%;
+  float:left;
+  left:15%;
+  border-style: solid;
+  border-color: #ddd;
+  border-width: 1px;
+}
+.project-partial{
+  display:inline-block;
+  width:50%;
+}
+.project-partial img{
+  width:100%;
+}
+.project-desc-left{
+  padding:25px;
+  text-align:left;
+  color: #444;
+}
+.project-desc-right{
+  padding:25px;
+  text-align:right;
+  color: #444;
+}
+.project-role{
+  font-size: 22px;
+  font-weight: 100;
+}
+.project-info{
+  line-height: 180%;
+  text-align:left;
+  font-size: 20px;
+  font-weight: 100;
+  margin:0;
 }
