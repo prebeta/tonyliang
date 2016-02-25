@@ -53,6 +53,9 @@ body{
   width:100%;
   margin: 50px 0;
 }
+.project-panel.rev{
+  direction: rtl;
+}
 .project-divider{
   position: absolute;
   display:inline-block;
@@ -70,24 +73,73 @@ body{
 .project-partial img{
   width:100%;
 }
-.project-desc-left{
+.project-desc{
   padding:25px;
-  text-align:left;
+  text-align:center;
   color: #444;
 }
-.project-desc-right{
-  padding:25px;
-  text-align:right;
-  color: #444;
+.project-name{
+  margin: 20px 0;
+  text-align:center;
 }
 .project-role{
+  margin: 10px 0;
   font-size: 22px;
   font-weight: 100;
 }
 .project-info{
+  direction: ltr;
+}
+.project-info li{
   line-height: 180%;
   text-align:left;
   font-size: 20px;
   font-weight: 100;
-  margin:0;
+  margin:5px 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .project-name{
+    margin: 0;
+  }
+  .project-panel{
+    margin: 40px 0;
+  }
+  .project-role{
+    font-size: 20px;
+  }
+  .project-info li{
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  body{
+    margin: 0 50px;
+  }
+  .project-name{
+    font-size: 26px;
+  }
+  .project-role{
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .project-panel{
+    display:inline-block;
+  }
+  .project-partial{
+    display:block;
+    width:100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body{
+    margin: 0 10px;
+  }
+  .profile-slg{
+    font-size: 2.5em;
+  }
 }
