@@ -4,7 +4,9 @@
   "description": "personal website",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/main.scss public/css/main.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/prebeta/tonyliang/issues"
   },
-  "homepage": "https://github.com/prebeta/tonyliang#readme"
+  "homepage": "https://github.com/prebeta/tonyliang#readme",
+  "devDependencies": {
+    "nodemon": "^1.9.0"
+  }
 }
