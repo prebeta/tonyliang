@@ -283,6 +283,8 @@ body{
   .title {
     position:absolute;
     right:0;
+    top:36px;
+    z-index:100;
     width: 35%;
   }
   .pfos-info{
