@@ -241,7 +241,9 @@ body{
   padding:0;
   line-height:200%;
 }
-.pfos-button:hover, .pfos-button:focus, .pfos-button:active {
+.pfos-button:hover, 
+.pfos-button:focus, 
+.pfos-button:active {
   background-color:#774D25;
 }
 /* switch to hamburger menu */
@@ -300,30 +302,35 @@ body{
   .story{
     font-size:3vw;
   }
-  .play-icon{
-    border-top: 1vw solid transparent;
-    border-left: 2vw solid white;
-    border-bottom: 1vw solid transparent;
-  }
   .pfos-button{
     border:2px solid #D4BEAA;
     border-radius: 8px;
   }
   .pfos-button p{
-    font-size:2vw;
+    font-size:2.5vw;
+  }
+  .play-icon{
+    margin-top:5px;
+    border-top: 1.25vw solid transparent;
+    border-left: 2.5vw solid white;
+    border-bottom: 1.25vw solid transparent;
   }
   .guest-header{
     font-size:3vw;
   }
   .guest-artist-name{
-    height:5vw;
-    font-size:2.5vw;
+    height:6vw;
+    font-size:4vw;
   }
   .guest-artist-name p{
-    font-size:2.5vw;
+    font-size:4vw;
   }
   .playbutton{
-    height:5vw;
+    height:6vw;
+  }
+  .buttons{
+    margin-top:5px;
+    padding:5px;
   }
 }
 
