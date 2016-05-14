@@ -3,226 +3,226 @@
     "organization":"Gallup",
     "date": "2016-04-25",
     "name": "Republicans who say election process is working as it should",
-    "data": [{"January": "46%"},{"March":"30%"}]
+    "data": {"January": "46%","March":"30%"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "2016 Republican Presidential Nomination",
-    "data": [{"Trump": "45"},{"Cruz":"29"},{"Kasich":"17"}]
+    "data": {"Trump": "45","Cruz":"29","Kasich":"17"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "2016 Democratic Presidential Nomination",
-    "data": [{"Clinton": "50"},{"Sanders":"45"}]
+    "data": {"Clinton": "50","Sanders":"45"}
   }, {
     "organization":"FOX News",
     "date": "2016-04-25",
     "name": "Pennsylvania Republican Presidential Primary",
-    "data": [{"Trump": "48"},{"Cruz":"28"},{"Kasich":"19"}]
+    "data": {"Trump": "48","Cruz":"28","Kasich":"19"}
   }, {
     "organization":"FOX News",
     "date": "2016-04-25",
     "name": "Pennsylvania Democratic Presidential Primary",
-    "data": [{"Clinton": "52"},{"Sanders":"41"}]
+    "data": {"Clinton": "52","Sanders":"41"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-25",
     "name": "Connecticut Republican Presidential Primary",
-    "data": [{"Trump": "59"},{"Cruz":"13"},{"Kasich":"25"}]
+    "data": {"Trump": "59","Cruz":"13","Kasich":"25"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-25",
     "name": "Connecticut Democratic Presidential Primary",
-    "data": [{"Clinton": "48"},{"Sanders":"46"}]
+    "data": {"Clinton": "48","Sanders":"46"}
   }, {
     "organization":"Gravis",
     "date": "2016-04-25",
     "name": "Maryland Republican Presidential Primary",
-    "data": [{"Trump": "53"},{"Cruz":"22"},{"Kasich":"24"}]
+    "data": {"Trump": "53","Cruz":"22","Kasich":"24"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "General Election: Trump vs. Clinton",
-    "data": [{"Trump": "39"},{"Clinton":"50"}]
+    "data": {"Trump": "39","Clinton":"50"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "General Election: Cruz vs. Clinton",
-    "data": [{"Cruz": "42"},{"Clinton":"49"}]
+    "data": {"Cruz": "42","Clinton":"49"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "General Election: Kasich vs. Clinton",
-    "data": [{"Kasich": "46"},{"Clinton":"41"}]
+    "data": {"Kasich": "46","Clinton":"41"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "General Election: Trump vs. Sanders",
-    "data": [{"Trump": "37"},{"Sanders":"52"}]
+    "data": {"Trump": "37","Sanders":"52"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "General Election: Cruz vs. Sanders",
-    "data": [{"Cruz": "38"},{"Sanders":"50"}]
+    "data": {"Cruz": "38","Sanders":"50"}
   }, {
     "organization":"USA Today",
     "date": "2016-04-25",
     "name": "General Election: Kasich vs. Sanders",
-    "data": [{"Kasich": "43"},{"Sanders":"44"}]
+    "data": {"Kasich": "43","Sanders":"44"}
   }, {
     "organization":"Brown University",
     "date": "2016-04-24",
     "name": "Rhode Island Republican Presidential Primary",
-    "data": [{"Trump": "38"},{"Kasich":"25"},{"Cruz":"14"}]
+    "data": {"Trump": "38","Kasich":"25","Cruz":"14"}
   }, {
     "organization":"Brown University",
     "date": "2016-04-24",
     "name": "Rhode Island Democratic Presidential Primary",
-    "data": [{"Clinton": "43"},{"Sanders":"34"}]
+    "data": {"Clinton": "43","Sanders":"34"}
   }, {
     "organization":"CBS News",
     "date": "2016-04-24",
     "name": "Indiana Republican Presidential Primary",
-    "data": [{"Trump": "40"},{"Kasich":"35"},{"Cruz":"20"}]
+    "data": {"Trump": "40","Kasich":"35","Cruz":"20"}
   }, {
     "organization":"CBS News",
     "date": "2016-04-24",
     "name": "Indiana Democratic Presidential Primary",
-    "data": [{"Clinton": "49"},{"Sanders":"44"}]
+    "data": {"Clinton": "49","Sanders":"44"}
   }, {
     "organization":"FOX News",
     "date": "2016-04-24",
     "name": "California Republican Presidential Primary",
-    "data": [{"Trump": "49"},{"Kasich":"20"},{"Cruz":"22"}]
+    "data": {"Trump": "49","Kasich":"20","Cruz":"22"}
   }, {
     "organization":"FOX News",
     "date": "2016-04-24",
     "name": "California Democratic Presidential Primary",
-    "data": [{"Clinton": "48"},{"Sanders":"46"}]
+    "data": {"Clinton": "48","Sanders":"46"}
   }, {
     "organization":"Gravis",
     "date": "2016-04-20",
     "name": "Delaware Republican Presidential Primary",
-    "data": [{"Trump": "55"},{"Kasich":"18"},{"Cruz":"15"}]
+    "data": {"Trump": "55","Kasich":"18","Cruz":"15"}
   }, {
     "organization":"Gravis",
     "date": "2016-04-20",
     "name": "Delaware Democratic Presidential Primary",
-    "data": [{"Clinton": "45"},{"Sanders":"38"}]
+    "data": {"Clinton": "45","Sanders":"38"}
   }, {
     "organization":"Rutgers-Eagleton",
     "date": "2016-04-20",
     "name": "New Jersey: Trump vs. Clinton",
-    "data": [{"Trump": "36"},{"Clinton":"50"}]
+    "data": {"Trump": "36","Clinton":"50"}
   }, {
     "organization":"Rutgers-Eagleton",
     "date": "2016-04-20",
     "name": "New Jersey: Trump vs. Sanders",
-    "data": [{"Trump": "34"},{"Sanders":"55"}]
+    "data": {"Trump": "34","Sanders":"55"}
   }, {
     "organization":"Rutgers-Eagleton",
     "date": "2016-04-20",
     "name": "New Jersey: Cruz vs. Clinton",
-    "data": [{"Cruz": "35"},{"Clinton":"50"}]
+    "data": {"Cruz": "35","Clinton":"50"}
   }, {
     "organization":"Rutgers-Eagleton",
     "date": "2016-04-20",
     "name": "New Jersey: Kasich vs. Clinton",
-    "data": [{"Kasich": "43"},{"Clinton":"43"}]
+    "data": {"Kasich": "43","Clinton":"43"}
   }, {
     "organization":"WPR/St. Norbert",
     "date": "2016-04-20",
     "name": "Wisconsin: Trump vs. Clinton",
-    "data": [{"Trump": "34"},{"Clinton":"46"}]
+    "data": {"Trump": "34","Clinton":"46"}
   }, {
     "organization":"WPR/St. Norbert",
     "date": "2016-04-20",
     "name": "Wisconsin: Trump vs. Sanders",
-    "data": [{"Trump": "33"},{"Sanders":"52"}]
+    "data": {"Trump": "33","Sanders":"52"}
   }, {
     "organization":"WPR/St. Norbert",
     "date": "2016-04-20",
     "name": "Wisconsin: Cruz vs. Clinton",
-    "data": [{"Cruz": "44"},{"Clinton":"45"}]
+    "data": {"Cruz": "44","Clinton":"45"}
   }, {
     "organization":"WPR/St. Norbert",
     "date": "2016-04-20",
     "name": "Wisconsin: Cruz vs. Sanders",
-    "data": [{"Cruz": "40"},{"Sanders":"50"}]
+    "data": {"Cruz": "40","Sanders":"50"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland Republican Presidential Primary",
-    "data": [{"Trump": "43"},{"Kasich":"29"},{"Cruz":"24"}]
+    "data": {"Trump": "43","Kasich":"29","Cruz":"24"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland Democratic Presidential Primary",
-    "data": [{"Clinton": "58"},{"Sanders":"33"}]
+    "data": {"Clinton": "58","Sanders":"33"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland:Trump vs. Clinton",
-    "data": [{"Clinton": "61"},{"Trump":"28"}]
+    "data": {"Clinton": "61","Trump":"28"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland:Cruz vs. Clinton",
-    "data": [{"Clinton": "58"},{"Cruz":"24"}]
+    "data": {"Clinton": "58","Cruz":"24"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland:Kasich vs. Clinton",
-    "data": [{"Clinton": "54"},{"Kasich":"33"}]
+    "data": {"Clinton": "54","Kasich":"33"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland:Trump vs. Sanders",
-    "data": [{"Sanders": "60"},{"Trump":"29"}]
+    "data": {"Sanders": "60","Trump":"29"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland:Cruz vs. Sanders",
-    "data": [{"Sanders": "62"},{"Cruz":"24"}]
+    "data": {"Sanders": "62","Cruz":"24"}
   }, {
     "organization":"PPP (D)",
     "date": "2016-04-19",
     "name": "Maryland:Kasich vs. Sanders",
-    "data": [{"Sanders": "52"},{"Trump":"32"}]
+    "data": {"Sanders": "52","Trump":"32"}
   }, {
     "organization":"NBC News",
     "date": "2016-04-18",
     "name": "2016 Republican Presidential Nomination",
-    "data": [{"Trump": "40"},{"Cruz":"35"},{"Kasich":"24"}]
+    "data": {"Trump": "40","Cruz":"35","Kasich":"24"}
   }, {
     "organization":"NBC News",
     "date": "2016-04-18",
     "name": "2016 Democratic Presidential Nomination",
-    "data": [{"Clinton": "50"},{"Sanders":"48"}]
+    "data": {"Clinton": "50","Sanders":"48"}
   }, {
     "organization":"Emerson",
     "date": "2016-04-18",
     "name": "New York Republican Presidential Primary",
-    "data": [{"Trump": "55"},{"Kasich":"21"},{"Cruz":"18"}]
+    "data": {"Trump": "55","Kasich":"21","Cruz":"18"}
   }, {
     "organization":"Emerson",
     "date": "2016-04-18",
     "name": "New York Democratic Presidential Primary",
-    "data": [{"Clinton": "55"},{"Sanders":"40"}]
+    "data": {"Clinton": "55","Sanders":"40"}
   }, {
     "organization":"Gallup",
     "date": "2016-03-14",
     "name": "Clinton's net favorability rating among democrats",
-    "data": [{"October/November": "+63"},{"March":"+36"}]
+    "data": {"October/November": "+63","March":"+36"}
   }, {
     "organization":"Gallup",
     "date": "2016-03-11",
     "name": "American's preference for the US healthcare system",
-    "data": [{"Government-Run": "41%"},{"Private":"55%"}]
+    "data": {"Government-Run": "41%","Private":"55%"}
   }, {
     "organization":"Gallup",
     "date": "2016-02-26",
     "name": "Candidates' net favorability ratings among democrats",
-    "data": [{"Sanders": "+44"},{"Clinton":"+55"}]
+    "data": {"Sanders": "+44","Clinton":"+55"}
   }]
 }
